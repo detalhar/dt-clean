@@ -1,5 +1,6 @@
 css/error.min.css
 css/editor.min.css
+css/style.min.css
 Gruntfile.js
 package.json
 node_modules
