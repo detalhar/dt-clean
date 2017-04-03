@@ -1,4 +1,4 @@
 Detalhar Clean
 ==============
 
-starter basic template for Joomla 3.0
+Simple starter template for Joomla 3.0
